@@ -1,0 +1,21 @@
+Table 3 
+Observed Clusters and Star-forming Regions
+
+
+Cluster	Age^a	N_*	N_bin	T_eff${}_{,5 \% \mbox{--}50 \% \mbox{--}95 \% }$	log g${}_{,5 \% \mbox{--}50 \% \mbox{--}95 \% }$	Deltat	N_visits	RV	mu_alpha	mu_delta	pi	
+	(Myr)			(K)	(dex)	(days)		(km s^-1)	(mas yr^-1)	(mas yr^-1)	(mas)	
+IC 348	3 (a)	299	24	2750-3800-4990	3.9-4.5-4.8	538	4	10-25	0-10	-15-0	1.5-5	
+NGC 1333	1 (a)	132	7	2680-3980-5060	3.2-4.3-5.1	438	4	5-25	5-20	-20-0	2-6	
+Taurus	2 (b)	199	37	2550-3770-5220	3.4-4.4-5.0	357	3	10-30	-5-20	-35 to -10	4.8-10	
+NGC 2264	3 (c)	265	28	3210-4190-5010	3.6-4.6-4.9	1892	6	10-35	-8-2	-10-2	0.8-2.5	
+ONC	2 (d)	1274	137	2990-3980-4690	3.5-4.4-4.8	1457	2	14-36	-5-5	-5-5	1.5-3.5	
+L1641	2 (d)	711	40	2990-4000-4780	3.8-4.5-4.8	1476	3	14-36	-5-5	-5-5	1.5-3.5	
+Orion B	1 (d)	308	23	3010-4170-5310	3.5-4.3-4.7	605	3	14-36	-5-5	-5-5	1.5-3.5	
+Orion C^b	4 (d)	360	34	3060-4210-5540	3.9-4.6-5.0	628	3	14-25	-5-5	-5-5	1.5-3.5	
+Orion D^b	6 (d)	473	19	3324-4280-5710	4.4-4.7-5.0	628	2	25-36	-5-5	-5-5	1.5-3.5	
+lambda Ori	4 (d)	379	33	3240-4130-5250	4.1-4.6-4.9	710	4	14-36	-5-5	-5-5	1.5-3.5	
+alpha Per	50 (e)	152	9	3020-3900-5700	4.7-5.1-5.5	358	4	-15-15	15-35	-35 to -20	4-8	
+Pleiades	125 (f)	455	36	3060-4210-5770	4.8-5.2-5.5	2190	3	0-20	10-30	-55 to -35	6-9	
+Notes.
+^a (a) Luhman et al. (2016), (b) Luhman (2018), (c) Venuti et al. (2018), (d) Kounkel et al. (2018), (e) Balachandran et al. (2011), (f) Bouvier et al. (2018).
+^b Following the nomenclature from Kounkel et al. (2018); sources without membership assignment were split on the basis of their RVs.
